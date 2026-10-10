@@ -1,0 +1,1 @@
+console.log('Signaling script loaded');
